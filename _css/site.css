@@ -191,9 +191,9 @@ h4{
   font-weight: 700;
 }
 .noclass{
-  color: #9f9;
-  border-bottom: 1px solid #9f9;
+  color: #000;
   font-weight: 700;
+  background-color: #9f9;
 }
 .workday{
   color: #9cf;
